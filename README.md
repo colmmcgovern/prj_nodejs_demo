@@ -1,6 +1,6 @@
 # demo
 
-a [Sails v1](https://sailsjs.com) application
+a Dockerized [Sails ](https://sailsjs.com) application
 
 
 ### Links
